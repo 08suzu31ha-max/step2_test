@@ -2,4 +2,3 @@ touch.practice.txt
 git init
 git add .
 git connit -m"first commit"
-git練習中
